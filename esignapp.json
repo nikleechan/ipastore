@@ -1,7 +1,7 @@
 {
     "name": "轻松签源",
     "identifier": "xyz.yyyue.esign",
-    "sourceURL": "https://esign.yyyue.xyz/apps.json",
+    "sourceURL": "https://github.com/nikleechan/ipastore/blob/f3f1abb1d9e35a19d8e5f5b464504be50328e044/esignapp.json",
     "apps": [
         {
             "name": "轻松签-ESign",
